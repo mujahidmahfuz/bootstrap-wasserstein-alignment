@@ -12,7 +12,7 @@ Official implementation of **"Bootstrap Wasserstein Alignment for Stable Feature
 **BWA** is a geometric framework that stabilizes feature attributions in low-data regimes ($N \ll d$) by aligning bootstrap replicates via optimal transport. Unlike Euclidean averaging which suffers catastrophic norm collapse (Lemma 3.1), BWA preserves attribution structure while filtering stochastic noise.
 
 <p align="center">
-  <img src="figures/mnist_comparison.png" alt="MNIST Comparison" width="800"/>
+  <img src="mnist_comparison.png" alt="MNIST Comparison" width="800"/>
   <br>
   <em>Figure 1: BWA recovers digit structure while Euclidean mean produces noise</em>
 </p>
