@@ -8,6 +8,11 @@ Official implementation of 'Bootstrap Wasserstein Alignment for Stable Feature A
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-red.svg)](https://arxiv.org/abs/XXXX.XXXXX)
 
+![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Tests](https://github.com/yourusername/bwa-paper/actions/workflows/tests.yml/badge.svg)
+![Codecov](https://codecov.io/gh/yourusername/bwa-paper/branch/main/graph/badge.svg)
+
 Official implementation of **"Bootstrap Wasserstein Alignment for Stable Feature Attribution in Low-Data Regimes"** (ICML 2025).
 
 ## 🔍 Overview
@@ -25,3 +30,6 @@ python src/experiments/synthetic.py
 
 # Run MNIST experiment
 python src/experiments/mnist.py
+
+
+
